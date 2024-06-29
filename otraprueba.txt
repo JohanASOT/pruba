@@ -1,1 +1,3 @@
 una safoka
+
+cambios hechos en el repositorio simulando a un sujeto que ha subido sus cambios antes que nosotros
